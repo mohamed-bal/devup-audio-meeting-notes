@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "kind": "decision", "statement": "Keep the current form for launch.",
+      "owner": null, "dueText": null,
+      "evidence": [{"segmentId": "S0001", "quote": "Nous avons décidé de garder la version actuelle du formulaire pour le lancement."}]
+    },
+    {
+      "kind": "action", "statement": "Review the mobile version.",
+      "owner": "مريم", "dueText": "قبل الخميس",
+      "evidence": [{"segmentId": "S0002", "quote": "مريم ستراجع نسخة الهاتف قبل الخميس."}]
+    },
+    {
+      "kind": "open_question", "statement": "Should the help page have an Arabic version?",
+      "owner": null, "dueText": null,
+      "evidence": [{"segmentId": "S0003", "quote": "Faut-il ajouter une version arabe de la page d'aide ? La question reste ouverte."}]
+    }
+  ]
+}

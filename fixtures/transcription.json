@@ -1,0 +1,9 @@
+{
+  "text": "Fictional transcript fixture; no recording was transcribed.",
+  "segments": [
+    {"start": 0, "end": 6, "text": "Nous avons décidé de garder la version actuelle du formulaire pour le lancement."},
+    {"start": 6, "end": 12, "text": "مريم ستراجع نسخة الهاتف قبل الخميس."},
+    {"start": 12, "end": 18, "text": "Faut-il ajouter une version arabe de la page d'aide ? La question reste ouverte."},
+    {"start": 18, "end": 24, "text": "On pourrait refaire tout le tableau de bord un jour, mais rien n'est décidé."}
+  ]
+}
